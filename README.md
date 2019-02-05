@@ -1,5 +1,9 @@
 # Viz Bib: A Collection of Viz Related Citations
 
+The following table contains a collection of citations to viz papers that I've found useful
+in my journey to integrating music, education, and viz. Each data row contains an anchor
+link to the paper summary below.
+
 Title                            | Authors | Date | Publication | Pages | Anchor
 ---------------------------------|---------|------|-------------|-------|-------
 [A Color-Based Visualization Approach to Understand Harmonic Structures of Musical Compositions][1] | D. Malandrino, D. Pirozzi, G. Zaccagnino and R. Zaccagnino | 2015 | 2015 19th International Conference on Information Visualisation | 56-61 | [Link][3]
