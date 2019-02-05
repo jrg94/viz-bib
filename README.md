@@ -1,5 +1,4 @@
-# viz-bib
-A collection of viz related citations
+# Viz Bib: A Collection of Viz Related Citations
 
 Title                            | Authors | Date | Publication | Pages | Anchor
 ---------------------------------|---------|------|-------------|-------|-------
